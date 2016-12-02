@@ -27,3 +27,5 @@ BeautifulSoup
 `pip instal …`
 
 （前提是你已经安装了python2.7）
+
+声明：此脚本仅用于帮助大家更好地使用锐捷
